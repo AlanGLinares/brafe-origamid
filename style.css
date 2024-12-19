@@ -102,7 +102,7 @@ img {
 /* BACKGROUND-IMAGE */
 
 .intro {
-  background: url(/img/bg-intro.jpg) no-repeat center center;
+  background: url(./img/bg-intro.jpg) no-repeat center center;
   background-size: cover;
   color: #fff;
   text-align: center;
